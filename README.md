@@ -1,4 +1,4 @@
-# Halo, Saya Muhamad Noval Muhadi 👋
+# Halo, Saya Codeverse Studio👋
 
 Saya seorang **Freelance Web Developer** yang fokus membangun website modern, cepat, dan responsif.  
 Saya membantu bisnis dan individu menciptakan kehadiran digital yang kuat melalui desain dan kode berkualitas.

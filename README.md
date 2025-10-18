@@ -1,16 +1,33 @@
-## Hi there 👋
+# Halo, Saya アゴイ 👋
 
-<!--
-**Codeverse-Studio/Codeverse-Studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang **Freelance Web Developer** yang fokus membangun website modern, cepat, dan responsif.  
+Saya membantu bisnis dan individu menciptakan kehadiran digital yang kuat melalui desain dan kode berkualitas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Skill Utama
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js, Express, PHP  
+- **Database:** MySQL, MongoDB  
+- **Tools:** Git, Figma, VS Code  
+
+---
+
+### 🚀 Proyek Unggulan
+| Proyek | Deskripsi | Teknologi |
+|--------|------------|------------|
+| [Landing Page Modern](https://github.com/agoidev/landing-page) | Website statis responsif dengan animasi halus dan desain profesional | HTML, CSS, JS |
+| [E-Commerce App](https://github.com/agoidev/ecommerce-app) | Aplikasi e-commerce sederhana dengan sistem login dan cart | Node.js, Express, MongoDB |
+| [Admin Dashboard](https://github.com/agoidev/admin-dashboard) | Dashboard analitik dengan grafik dan tabel interaktif | React, Chart.js |
+
+---
+
+### 🌐 Portofolio
+👉 [https://agoidev.github.io](https://agoidev.github.io)
+
+---
+
+### 📫 Hubungi Saya
+📧 **your.email@example.com**  
+💼 [LinkedIn](https://linkedin.com/in/agoidev)  
+🐦 [Twitter](https://twitter.com/agoidev)

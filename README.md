@@ -23,11 +23,11 @@ Saya membantu bisnis dan individu menciptakan kehadiran digital yang kuat melalu
 ---
 
 ### 🌐 Portofolio
-👉 [https://agoidev.github.io](https://agoidev.github.io)
+👉 [https://agoidev.github.io](https://codeversestudio.github.io)
 
 ---
 
 ### 📫 Hubungi Saya
 📧 **your.email@example.com**  
-💼 [LinkedIn](https://linkedin.com/in/agoidev)  
-🐦 [Twitter](https://twitter.com/agoidev)
+💼 [LinkedIn](https://linkedin.com/in/codeversestudio)  
+🐦 [Twitter](https://twitter.com/codeversestudio)
